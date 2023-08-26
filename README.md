@@ -9,3 +9,9 @@ Viewing the document here probably wont help much.  If you download the PDF howe
 Please do not ask for support on this.  I am no Lua expert.  But I hope this helps get you started with Lua.
 Best
 Andy
+
+Also, feel free to browse our other Wireshark related articles and information here: https://www.cellstream.com/tag/wireshark/
+
+Did I just save you time and $$$? I certainly hope so. Return the favor - buy me a coffee: https://www.buymeacoffee.com/awalding or become a patron: https://www.patreon.com/bePatron?u=22427713&redirect_uri=https%3A%2F%2Fwww.cellstream.com%2Fcomponent%2Ftags%2Ftag%2Fwireshark&utm_medium=widget
+
+Thanks for supporting my work.
