@@ -1,3 +1,4 @@
+![Visitor Count](https://profile-counter.glitch.me/amwalding4/count.svg)
 # Lua Reference Book
 Hello everyone :smiley:
 
